@@ -86,6 +86,8 @@ The Excel dashboard includes:
 
 This interactive setup enables users to explore data dynamically and uncover specific trends.
 
+ Dashboard.
+
 
 ![Dashboard 6](https://github.com/user-attachments/assets/b9d82091-3b46-4d80-8648-71b16311d4f4)
 
